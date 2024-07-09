@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Elementor\Modules\ConversionCenter\Traits\Conversion_Center_Controls_Trait&quot; not found in <b>/Users/mena/Local Sites/htdocs/tarlets-coffe/app/public/wp-content/plugins/elementor/modules/conversion-center/classes/render/render-base.php</b> on line <b>18</b><br>

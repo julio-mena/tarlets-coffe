@@ -1,0 +1,2 @@
+[Tue Jul 09 04:14:48.782042 2024] [authz_core:error] [pid 44589:tid 13064421376] [client 127.0.0.1:60683] AH01630: client denied by server configuration: /Users/mena/Local Sites/htdocs/tarlets-coffe/app/public/wp-content/ai1wm-backups/.htaccess
+[Tue Jul 09 04:17:26.887387 2024] [authz_core:error] [pid 44476:tid 13056909312] [client 127.0.0.1:51093] AH01630: client denied by server configuration: /Users/mena/Local Sites/htdocs/tarlets-coffe/app/public/wp-content/ai1wm-backups/.htaccess
