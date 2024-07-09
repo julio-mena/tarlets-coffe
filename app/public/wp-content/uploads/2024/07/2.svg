@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="uuid-c61df285-fa40-482d-a760-b7afad1c11ec" viewBox="0 0 100.96 100.96">
+  <defs>
+    <style>.uuid-7faf23d8-ecc6-428c-ab25-60742da841f0{fill:#e84db5;fill-rule:evenodd;stroke-width:0px;}.uuid-870b49a6-277d-4b22-b0ee-afdfe96040da{fill:none;stroke:#e84db5;stroke-miterlimit:10;stroke-width:2px;}</style>
+  </defs>
+  <g id="uuid-306df7e0-8520-40d9-ba15-530cd55c170e">
+    <circle class="uuid-870b49a6-277d-4b22-b0ee-afdfe96040da" cx="50.48" cy="50.48" r="49.48"></circle>
+    <path class="uuid-7faf23d8-ecc6-428c-ab25-60742da841f0" d="M57.56,47.28v24.07c0,.56-.58,1.13-1.16,1.13h0c-.58,0-1.16-.58-1.16-1.13v-24.35s5.8-12.18,5.8-12.18h-3.49c-1.16,0-2.04-.88-2.04-2.04v-6.08c0-.88.6-1.73,1.46-1.73h4.37c0-.58.55-.88,1.16-.88h0c.56,0,1.16.3,1.16.88v9.55s-6.1,12.76-6.1,12.76ZM34.07,70.47l1.16,1.16h13.04s1.18-1.16,1.18-1.16v-1.73h-15.38v1.73ZM49.45,66.43l-.86-33.06c0-.58-.32-1.16-.88-1.16h-2.34s0-6.38,0-6.38c0-.58-.58-1.16-1.18-1.16h-4.9c-.3,0-.6.3-.88.58,0,0-.28.3-.28.58v6.38s-2.33,0-2.33,0c-.58,0-.88.58-1.18,1.16l-.55,33.06h15.38Z"></path>
+  </g>
+</svg>
